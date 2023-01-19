@@ -1,0 +1,1 @@
+Multiplayer hotseat indie game. Users play as rabbits and score points by killing other users' rabbits. To kill, you need to jump on the opponent's rabbit from above. The game features killer animations and bunny movements, as well as several options for game maps.
